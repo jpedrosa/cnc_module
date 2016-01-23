@@ -1,5 +1,5 @@
 module CNC [system] {
-  header "/usr/include/ncurses.h"
+  header "/usr/include/ncursesw/ncurses.h"
   link "ncurses"
   export *
 }
