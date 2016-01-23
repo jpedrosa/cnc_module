@@ -1,9 +1,9 @@
 CNC Module
 ----------
 
-This project wraps NCursesW for Swift projects.
+This project wraps NCurses for Swift projects.
 
-NCursesW should give us support for Unicode.
+NCurses should give us support for Unicode.
 
 License
 -------
